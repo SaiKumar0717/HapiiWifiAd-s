@@ -1,0 +1,185 @@
+<html>
+<head>
+    <title>HAPPI ADVERTISER'S</title>
+    <meta name="viewport" content="width=device-width",
+          initial-scale="1" />
+
+    <link rel="stylesheet1" href="css/styles.css" />
+    </head>
+    <style type="text/css">
+
+       a{
+           text-decoration:none;
+       }
+        
+        h1 {
+            text-align: center;
+            color: white;
+            font-family: Elephant;
+        }
+
+        body {
+            background: url("https://freepngimg.com/thumb/abstract/128052-abstract-red-hq-image-free.png");
+            background-repeat: no-repeat;
+            background-size: 100%;
+        }
+        div{
+            background-color:grey;
+        }
+
+        h2{
+            text-align:center;
+
+        }
+
+        h3 {
+           
+            margin-right:200px;
+            font-family: 'Franklin Gothic';
+            font-weight: bold; 
+            display:flex;
+            float:right;
+            margin-top:35px;
+            
+        }
+        
+            
+        
+        #div1 {
+            word-spacing: 5px;
+            width: 42%;
+            border: 6px double firebrick;
+            background-color: gainsboro;
+            float: right;
+            margin-right: 70px;
+          
+        }
+        .div2 {
+            word-spacing: 5px;
+            width: 42%;
+            border: 6px solid firebrick;
+            background-color: goldenrod;
+            margin-left: 70px;
+            transition:2s;
+           
+        }
+
+            .div2:hover {
+                transform: scale(1.3);
+            }
+          .div3 {
+
+            width: 42%;
+            border: 6px double firebrick;
+            background-color: gainsboro;
+            margin-right: 70px;
+            word-spacing: 5px;
+            float: right;
+            padding-bottom:14px;
+            
+        }
+        .div4 {
+            width: 42%;
+            border: 5px solid firebrick;
+            background-color:gainsboro;
+            margin-left: 70px;
+        }
+        #radhi{
+          font-family:'Engravers MT';
+        }
+    </style>
+
+    <body>
+        <h3>
+            <a href="file:///C:/Users/Rakhi/Desktop/wifi.html"><font color="black">HOME</font></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<a href="file:///C:/Users/Rakhi/Desktop/about.html"><font color="black"><button class="btn1"> ABOUT&nbsp&nbspUS</button></font> </a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp <a href="https://www.happiwifi.com/index.php#services" target="blank"> <font color="black"> SERVICES </font></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp <a href="#"> <font color="black">CONTACT US</font></a>
+        </h3>
+
+        <img src="C:\Users\Rakhi\Desktop\sai laptop data\Ad's\logo.png" height="100" width="300" color="white" /><br /><br /><br />
+
+
+
+        <marquee scrollamount="25">
+            <a href="https://payzigo.in/about.html" target="blank"><img src="C:\Users\Rakhi\Desktop\sai laptop data\Ad's\payzigo.jpg" height="350" width="550" /></a> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+            <a href="https://www.biba.in/" target="blank">
+                <img src="C:\Users\Rakhi\Desktop\sai laptop data\Ad's\BIBA.jpg" height="350" width="550" />
+            </a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+
+
+            <a href="https://www.croma.com/" target="blank">
+                <img src="C:\Users\Rakhi\Desktop\sai laptop data\Ad's\CROMA.jpeg" height="350" width="550" />
+            </a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+
+            <a href="https://www.etrio.in/" target="blank">
+                <img src="C:\Users\Rakhi\Desktop\sai laptop data\Ad's\etrio.jpg" height="350" width="550" />
+            </a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+
+            <a href="https://uclean.in/" target="blank"> <img src="C:\Users\Rakhi\Desktop\sai laptop data\Ad's\uclean.jpg" height="350" width="550" /></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+        </marquee>
+
+
+
+        <h2> <a href="file:///C:/Users/Rakhi/Desktop/sai%20laptop%20data/wifi/specialoffers.html"><img src="https://pixy.org/src/9/91627.png" height="250" width="450" text-align="center" /></a></h2>
+        <h2 id="radhi">
+            FOR ADVERTISEMENT CONTACT :7013230118
+        </h2><br />
+
+
+        <div>
+            <br /><br />
+            <div id="div1">
+
+
+                <marquee scrollamount="20"><img src="C:\Users\Rakhi\Desktop\sai laptop data\Ad's\happipay1.jpg" height="220" width="560" /></marquee>
+
+
+                <h4> Happi-Pay empowers its customers to search any service and also make payment in a simplify way with multiple payment options. We at Happi-pay are continually working to deliver solutions that make it easy for a merchant to accept payment from customers</h4>
+            </div>
+
+
+
+
+
+
+            <div class="div2">
+                <img src="https://miro.medium.com/max/1200/1*mKkE9_RsIlVvW4MfLfm1lg.jpeg" height="220" width="560" /><h4 id="ad1">
+
+
+                    Move forward with us.
+                    Be an Indicash ATM Franchisee Owner.
+                    At Indicash, we believe in taking you forward with us. Our growing network presents an exciting opportunity for aspiring or established entrepreneurs to increase their income with minimal investment.
+                </h4>
+            </div><br /><br /><br />
+
+            <div class="div3">
+                <img src="C:\Users\Rakhi\Desktop\sai laptop data\Ad's\vedanthu.jpg" height="220" width="560" /><h4 id="ad2">
+                    Vedantu is the leader in K-12 LIVE tutoring space. Each month, over 35 million users’ access Vedantu through its app and web for free. Its Youtube channel gets 65 million views, the highest in the K-12 segment for any educational company in India.
+                </h4>
+            </div>
+
+            <div class="div4">
+                <img src="C:\Users\Rakhi\Desktop\sai laptop data\Ad's\KTM.jpg" height="220" width="560" /><h4 id="ad3">
+                    Every single KTM showcases the purity of the design and uncompromising function that defines the READY TO RACE mentality. Out on your bike, looking ahead, and in the zone – nothing else matters. Taking the power and performance in your own hands and unleashing it at will, without distraction. No wasted space or weight.
+                </h4>
+
+
+
+            </div><br /><br />
+    </body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
